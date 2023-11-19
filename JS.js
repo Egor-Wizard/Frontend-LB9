@@ -92,7 +92,7 @@ function calculateCardValue(card) {
 }
 
 function getCardImages(cards) {
-    const imagePath = 'E:\\Универ\\Курс 2\\Frontend розробка\\ЛБ№9\\imege\\'; // ваш шлях до зображень
+    const imagePath = 'imege'; // ваш шлях до зображень
     const images = {
         '6': '6.png',
         '7': '7.png',
