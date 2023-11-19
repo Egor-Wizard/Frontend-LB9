@@ -92,7 +92,7 @@ function calculateCardValue(card) {
 }
 
 function getCardImages(cards) {
-    const imagePath = 'path\\to\\your\\project\\imege\\'; // ваш шлях до зображень
+    const imagePath = 'https://raw.githubusercontent.com/Egor-Wizard/Frontend-LB9/main/imege/'; // ваш шлях до зображень
     const images = {
         '6': '6.png',
         '7': '7.png',
