@@ -47,7 +47,7 @@ function playGif(winner) {
     resultText.style.marginTop = '10px';
 
     if (winner === 'Комп\'ютер') {
-        gifImage.src = '2dR9.gif'; // Замініть шлях на шлях до гіфки для перемоги комп'ютера
+        gifImage.src = '3QyH.gif'; // Замініть шлях на шлях до гіфки для перемоги комп'ютера
 		 resultText.innerText = 'Ти програв';
     } else {
         gifImage.src = '3abC.gif'; // Замініть шлях на шлях до гіфки для перемоги гравця
